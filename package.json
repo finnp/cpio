@@ -1,0 +1,23 @@
+{
+  "name": "cpio",
+  "version": "1.0.0",
+  "description": "Pack and unpack cpio archives",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/finnp/cpio.git"
+  },
+  "keywords": [
+    "cpio",
+    "libarchive"
+  ],
+  "author": "Finn Pauls",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/finnp/cpio/issues"
+  },
+  "homepage": "https://github.com/finnp/cpio"
+}
